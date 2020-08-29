@@ -1,0 +1,18 @@
+* { padding: 0;  margin: 0; }
+
+body { background-color: #f1f1f1; }
+
+.temizle { clear: both; }
+
+.genel { width: 800px; margin: 20px auto; }
+
+.tutucu { width: 600px; height: 20px; margin: 0 auto; border-radius: 50px; background-image: url(resim.png); }
+
+.zincirler { width: 600px; margin: 0 auto; }
+
+.zincir1 { float: left; width: 22px; height: 70px; background-image: url(zincir1.png); border-radius: 50px; margin-top: -3px; margin-left: 90px; }
+
+.zincir2 { float: right; width: 22px; height: 70px; background-image: url(zincir1.png); border-radius: 50px; margin-top: -3px; margin-right: 90px; }
+
+.tabele { width: 500px; margin: 0 auto; height: 85px; padding: 10px; margin-top: -3px; border-radius: 8px; background-image: url(resim.png); }
+ 
